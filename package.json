@@ -1,6 +1,6 @@
 {
   "name": "microkit",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "Copy-paste microinteractions for thoughtful product interfaces. Built with React, TypeScript and Tailwind CSS.",
   "main": "src/index.ts",
   "scripts": {
